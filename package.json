@@ -1,0 +1,22 @@
+{
+  "name": "sha-logger",
+  "version": "1.0.0",
+  "description": "replace console log with a toggleable logger. supports all console methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jithin Sha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waterloo/logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "bugs": {
+    "url": "https://github.com/Waterloo/logger/issues"
+  },
+  "homepage": "https://github.com/Waterloo/logger#readme"
+}
