@@ -1,6 +1,6 @@
 {
   "name": "sha-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "replace console log with a toggleable logger. supports all console methods.",
   "main": "index.js",
   "scripts": {
